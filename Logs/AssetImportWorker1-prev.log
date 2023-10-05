@@ -1,0 +1,307 @@
+Using pre-set license
+Built from '2023.1/staging' branch; Version is '2023.1.11f1 (fbf46ad88f3d) revision 16512106'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit ProfessionalWorkstation' Language: 'es' Physical Memory: 32691 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity\Editor\2023.1.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/maria/Documents/Proyecto Naves
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+56692
+Successfully changed project path to: C:/Users/maria/Documents/Proyecto Naves
+C:/Users/maria/Documents/Proyecto Naves
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [74096] Host "[IP] 192.168.1.134 [Port] 0 [Flags] 2 [Guid] 704374273 [EditorId] 704374273 [Version] 1048832 [Id] WindowsEditor(7,PC-Pinkeiru) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [74096] Host "[IP] 192.168.1.134 [Port] 0 [Flags] 2 [Guid] 704374273 [EditorId] 704374273 [Version] 1048832 [Id] WindowsEditor(7,PC-Pinkeiru) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 12.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.1.11f1 (fbf46ad88f3d)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/maria/Documents/Proyecto Naves/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   NVIDIA
+    VRAM:     8031 MB
+    Driver:   31.0.15.3734
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56016
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002770 seconds.
+- Loaded All Assemblies, in  0.402 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.290 seconds
+Domain Reload Profiling: 692ms
+	BeginReloadAssembly (136ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (158ms)
+		LoadAssemblies (135ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (156ms)
+			TypeCache.Refresh (155ms)
+				TypeCache.ScanAssembly (144ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (291ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (244ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (7ms)
+			ProcessInitializeOnLoadAttributes (174ms)
+			ProcessInitializeOnLoadMethodAttributes (51ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\maria\Documents\Proyecto Naves\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\maria\Documents\Proyecto Naves\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.918 seconds
+Refreshing native plugins compatible for Editor in 3.10 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.632 seconds
+Domain Reload Profiling: 1549ms
+	BeginReloadAssembly (294ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (542ms)
+		LoadAssemblies (311ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (323ms)
+			TypeCache.Refresh (304ms)
+				TypeCache.ScanAssembly (291ms)
+			ScanForSourceGeneratedMonoScriptInfo (14ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (632ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (429ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (96ms)
+			ProcessInitializeOnLoadAttributes (294ms)
+			ProcessInitializeOnLoadMethodAttributes (28ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 3.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 34 unused Assets / (52.8 KB). Loaded Objects now: 3693.
+Memory consumption went from 125.8 MB to 125.7 MB.
+Total: 4.235200 ms (FindLiveObjects: 0.293800 ms CreateObjectMapping: 0.089400 ms MarkObjects: 3.700500 ms  DeleteObjects: 0.150000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.88 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1 unused Assets / (3.0 KB). Loaded Objects now: 3693.
+Memory consumption went from 76.2 MB to 76.2 MB.
+Total: 3.634100 ms (FindLiveObjects: 0.334000 ms CreateObjectMapping: 0.105500 ms MarkObjects: 3.174600 ms  DeleteObjects: 0.018700 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1270417.110210 seconds.
+  path: Assets/Elemental Particles.unitypackage
+  artifactKey: Guid(42bce3c9cfd26f1419face4fd2b299b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Particles.unitypackage using Guid(42bce3c9cfd26f1419face4fd2b299b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d32508d36a5c983e4deb70c3cb6a0ff') in 0.014247 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 12.193256 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Darkness/ETF_DarkMist.prefab
+  artifactKey: Guid(373a322be3e2f4759ad814bd773de5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Darkness/ETF_DarkMist.prefab using Guid(373a322be3e2f4759ad814bd773de5fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eece5eacda6d38ec9a07f828ecabea4d') in 0.133883 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 12.561380 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_DarkGlow_01.png
+  artifactKey: Guid(92a16235601304c92873a14c64979c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_DarkGlow_01.png using Guid(92a16235601304c92873a14c64979c34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8dd8d1c181a4a59a22925a919d63591') in 0.019513 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Mud_01.png
+  artifactKey: Guid(5e1e53776e48f4e30a8493f46329e3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Mud_01.png using Guid(5e1e53776e48f4e30a8493f46329e3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5f6f8c8b994243d73ebacd438f82e6e') in 0.016890 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Raindrop_01.png
+  artifactKey: Guid(da920dd99b02a4a5ea89d7dbb6626918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Raindrop_01.png using Guid(da920dd99b02a4a5ea89d7dbb6626918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f208287a4fd5fc319b44fa1011c70df') in 0.018130 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Stream_01.png
+  artifactKey: Guid(67915233340bf4fa5b4d5b32551b30a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Stream_01.png using Guid(67915233340bf4fa5b4d5b32551b30a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfb9d109be3e39a3c04a4e3e714cbbda') in 0.016560 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_RainRipple_01.png
+  artifactKey: Guid(77d1eba7b6b264c9fa2e264e1601d7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_RainRipple_01.png using Guid(77d1eba7b6b264c9fa2e264e1601d7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892c402a11d53d7bf629091011e963b4') in 0.011809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Rock_01.png
+  artifactKey: Guid(a248ad466548d4b34a1f07304f79cf9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Rock_01.png using Guid(a248ad466548d4b34a1f07304f79cf9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13e86c405b1b2ed8d86af889eac0a689') in 0.016960 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_SnowFloor_01.png
+  artifactKey: Guid(5a2786a345cd0491a81bfe2b3f8e4734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_SnowFloor_01.png using Guid(5a2786a345cd0491a81bfe2b3f8e4734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11eb80507ecf96559204333a487f1d7c') in 0.012866 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Water_01.png
+  artifactKey: Guid(399327346455442c8890058282ad43c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Water_01.png using Guid(399327346455442c8890058282ad43c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a953e44301577882906ce668c0327e') in 0.013724 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

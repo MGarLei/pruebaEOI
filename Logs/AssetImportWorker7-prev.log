@@ -1,0 +1,490 @@
+Using pre-set license
+Built from '2023.1/staging' branch; Version is '2023.1.11f1 (fbf46ad88f3d) revision 16512106'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit ProfessionalWorkstation' Language: 'es' Physical Memory: 32691 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity\Editor\2023.1.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker7
+-projectPath
+C:/Users/maria/Documents/Proyecto Naves
+-logFile
+Logs/AssetImportWorker7.log
+-srvPort
+56692
+Successfully changed project path to: C:/Users/maria/Documents/Proyecto Naves
+C:/Users/maria/Documents/Proyecto Naves
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [71116] Host "[IP] 192.168.1.134 [Port] 0 [Flags] 2 [Guid] 1210240367 [EditorId] 1210240367 [Version] 1048832 [Id] WindowsEditor(7,PC-Pinkeiru) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [71116] Host "[IP] 192.168.1.134 [Port] 0 [Flags] 2 [Guid] 1210240367 [EditorId] 1210240367 [Version] 1048832 [Id] WindowsEditor(7,PC-Pinkeiru) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 9.04 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.1.11f1 (fbf46ad88f3d)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/maria/Documents/Proyecto Naves/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   NVIDIA
+    VRAM:     8031 MB
+    Driver:   31.0.15.3734
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56208
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002933 seconds.
+- Loaded All Assemblies, in  0.388 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.292 seconds
+Domain Reload Profiling: 680ms
+	BeginReloadAssembly (127ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (157ms)
+		LoadAssemblies (125ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (154ms)
+			TypeCache.Refresh (153ms)
+				TypeCache.ScanAssembly (144ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (293ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (247ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (6ms)
+			ProcessInitializeOnLoadAttributes (176ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\maria\Documents\Proyecto Naves\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\maria\Documents\Proyecto Naves\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.966 seconds
+Refreshing native plugins compatible for Editor in 2.65 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.639 seconds
+Domain Reload Profiling: 1604ms
+	BeginReloadAssembly (313ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (41ms)
+	LoadAllAssembliesAndSetupDomain (553ms)
+		LoadAssemblies (339ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (322ms)
+			TypeCache.Refresh (303ms)
+				TypeCache.ScanAssembly (290ms)
+			ScanForSourceGeneratedMonoScriptInfo (15ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (639ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (425ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (315ms)
+			ProcessInitializeOnLoadMethodAttributes (26ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 3.34 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3161 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 34 unused Assets / (52.7 KB). Loaded Objects now: 3711.
+Memory consumption went from 129.8 MB to 129.8 MB.
+Total: 4.741100 ms (FindLiveObjects: 0.393200 ms CreateObjectMapping: 0.181700 ms MarkObjects: 4.038300 ms  DeleteObjects: 0.126100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1282058.377986 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_MeteorStorm.prefab
+  artifactKey: Guid(53c3e6f4bde54423ebe2438a84302160) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_MeteorStorm.prefab using Guid(53c3e6f4bde54423ebe2438a84302160) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f6cfaf46dd387cef839765ed0b4d5a6a') in 0.181947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 34
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Heat_01.png
+  artifactKey: Guid(a2b95373553df4b1981dbb404b559557) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Heat_01.png using Guid(a2b95373553df4b1981dbb404b559557) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '844a329f5961e3a7766f354ef7010ade') in 0.055852 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Fog_01.png
+  artifactKey: Guid(252c3b8c1676a465288ce044a6498dfa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Fog_01.png using Guid(252c3b8c1676a465288ce044a6498dfa) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '79888837fbba054187f920f24a282590') in 0.023397 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Crack_01.png
+  artifactKey: Guid(951b1a00695ce4671bba03b2da457644) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Crack_01.png using Guid(951b1a00695ce4671bba03b2da457644) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '09e5c586d464ee9c021ccba7f7418eca') in 0.022742 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Thunder/ETF_LightningStrike.prefab
+  artifactKey: Guid(9680fdee2d8014d93863eb27387ae851) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Thunder/ETF_LightningStrike.prefab using Guid(9680fdee2d8014d93863eb27387ae851) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0e642f79892e1c85f4c0ddc729effe65') in 0.064704 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_FireSpray.prefab
+  artifactKey: Guid(be6bbfd00caad4839af26a75487fe954) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_FireSpray.prefab using Guid(be6bbfd00caad4839af26a75487fe954) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '84fcec604fb1095e26a7d2b782e4aed9') in 0.063486 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Materials/Alpha Blended/ETF_Meterial_Fog_02.mat
+  artifactKey: Guid(56145cb0be71f4e488e42041c141b8c5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Materials/Alpha Blended/ETF_Meterial_Fog_02.mat using Guid(56145cb0be71f4e488e42041c141b8c5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9f3d4b678f8961bdd9f14e9d8830a5ed') in 0.020329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Fire_02.prefab
+  artifactKey: Guid(7a188c22e10b64955add56de8af5d9c4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Fire_02.prefab using Guid(7a188c22e10b64955add56de8af5d9c4) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '422dbead12648d886d39b550699b65f8') in 0.059606 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Landmine.prefab
+  artifactKey: Guid(7cd9c62469fe0467a9e27a21b9c8eb35) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Landmine.prefab using Guid(7cd9c62469fe0467a9e27a21b9c8eb35) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'dbbd2ef416b864316a3c735a95bf22b0') in 0.058873 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Flame_01.png
+  artifactKey: Guid(6d4743cc1529e423bbe058d9be970455) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Flame_01.png using Guid(6d4743cc1529e423bbe058d9be970455) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '84cf6ecc1cad034c10cdff520ee5511a') in 0.024903 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Materials/Alpha Blended/ETF_Meterial_Ice_01.mat
+  artifactKey: Guid(cb44ee7177b0b4f3dbe1fa6551451a97) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Materials/Alpha Blended/ETF_Meterial_Ice_01.mat using Guid(cb44ee7177b0b4f3dbe1fa6551451a97) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8727f8192b4774bc28eadf083ff6afea') in 0.012663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Materials/Alpha Blended/ETF_Meterial_Smoke_02.mat
+  artifactKey: Guid(208f7db6b0e87428e89d5a28d4fcc33e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Materials/Alpha Blended/ETF_Meterial_Smoke_02.mat using Guid(208f7db6b0e87428e89d5a28d4fcc33e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'dfaf42bd9fa312e313b85ea318b1b07f') in 0.011899 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Materials/Alpha Blended/ETF_Meterial_DarkGlow_01.mat
+  artifactKey: Guid(ef1b31f28d0c54c7d9bbe69e2638cd59) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Materials/Alpha Blended/ETF_Meterial_DarkGlow_01.mat using Guid(ef1b31f28d0c54c7d9bbe69e2638cd59) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0213d90095b134c6fbe170a9738fb0e8') in 0.016840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Lava_01.png
+  artifactKey: Guid(94701fd018e0c4d9db51ca8291973235) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Lava_01.png using Guid(94701fd018e0c4d9db51ca8291973235) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '81e99e43e7bf421f99bcc39530397554') in 0.024088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Rock Package/Texture/T_Rock_02_D.TGA
+  artifactKey: Guid(be484fbbcf8571e4891ac9d862635c60) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Rock Package/Texture/T_Rock_02_D.TGA using Guid(be484fbbcf8571e4891ac9d862635c60) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '83f38cbc6bef466f279ef5822561c44f') in 0.038821 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_DarkGlow_01.png
+  artifactKey: Guid(92a16235601304c92873a14c64979c34) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_DarkGlow_01.png using Guid(92a16235601304c92873a14c64979c34) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f667acc018f48ab18300ef316713a96d') in 0.021837 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_SnowFloor_01.png
+  artifactKey: Guid(5a2786a345cd0491a81bfe2b3f8e4734) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_SnowFloor_01.png using Guid(5a2786a345cd0491a81bfe2b3f8e4734) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f1b61f0ad312315be77d59f99fbd6154') in 0.022320 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Dust_01.png
+  artifactKey: Guid(b0aa25627080d4b2ab107ca51b6199a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Dust_01.png using Guid(b0aa25627080d4b2ab107ca51b6199a5) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6caa765c5ae2fe42664d559dd0d488e0') in 0.021770 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Ring_01.png
+  artifactKey: Guid(2095fef6f431c4dba8e36248d5cb0503) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Ring_01.png using Guid(2095fef6f431c4dba8e36248d5cb0503) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e13399035dfdb15ae4fcbf3700137450') in 0.022807 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Cloud_01.png
+  artifactKey: Guid(770e0c7a51d1a47f991efa163e9e721e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Alpha Blended/ETF_Texture_Cloud_01.png using Guid(770e0c7a51d1a47f991efa163e9e721e) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '388ab4d6b7d017e6f5821d00afc46fe8') in 0.021843 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Thunder_02.png
+  artifactKey: Guid(b6cbc957de8cb4638b3334448edfa71d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Thunder_02.png using Guid(b6cbc957de8cb4638b3334448edfa71d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd013ce412ac51b28e3a2f742177e942b') in 0.023074 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/SkyBox Volume 2/DeepSpaceGreen/downImage.png
+  artifactKey: Guid(8fa9128ee1c5bf84bbe093c7f8a0523a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/SkyBox Volume 2/DeepSpaceGreen/downImage.png using Guid(8fa9128ee1c5bf84bbe093c7f8a0523a) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '91a144ad132399c2f38d958ce0a25441') in 0.026760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/StarWars/Fonts/starjedi/Starjhol SDF.asset
+  artifactKey: Guid(c58b3a74658300c4ea96298fb74ad937) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/StarWars/Fonts/starjedi/Starjhol SDF.asset using Guid(c58b3a74658300c4ea96298fb74ad937) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) UnassignedReferenceException: The variable material of TMP_FontAsset has not been assigned.
+You probably need to assign the material variable of the TMP_FontAsset script in the inspector.
+  at UnityEngine.Object+MarshalledUnityObject.ThrowNullExceptionObjectImpl (System.Object obj) [0x000ad] in <0e8168edc7c74c6c8898f77f2be4d6b4>:0 
+  at UnityEngine.Material.HasProperty (System.Int32 nameID) [0x00000] in <0e8168edc7c74c6c8898f77f2be4d6b4>:0 
+  at TMPro.TMP_FontAsset.ReadFontAssetDefinition () [0x0008f] in .\Library\PackageCache\com.unity.textmeshpro@3.0.6\Scripts\Runtime\TMP_FontAsset.cs:588 
+  at TMPro.TMP_FontAsset.OnValidate () [0x00010] in .\Library\PackageCache\com.unity.textmeshpro@3.0.6\Scripts\Runtime\TMP_FontAsset.cs:555 
+UnityEditor.AssetDatabase:LoadMainAssetAtPath(String)
+UnityEditor.Search.AssetIndexer:IndexProperties(Int32&, String&, Boolean&)
+UnityEditor.Search.AssetIndexer:IndexDocument(String, Boolean)
+UnityEditor.Search.SearchIndexEntryImporter:OnImportAsset(AssetImportContext)
+UnityEditor.AssetImporters.ScriptedImporter:GenerateAssetData(AssetImportContext)
+
+(Filename: ./Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_FontAsset.cs Line: 588)
+
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0e116ccfd57992961f9c7e9beaa3af84') in 0.040840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Ring_02.png
+  artifactKey: Guid(48e5d47566f384ecf9a392450305bca3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Ring_02.png using Guid(48e5d47566f384ecf9a392450305bca3) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '826eb13d28cbf22ff1ee1dda86145f63') in 0.019636 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/StarWars/Sound/366007__tutarap__blaster-2.wav
+  artifactKey: Guid(4b8131d4b1064ea459d06e4625865e52) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/StarWars/Sound/366007__tutarap__blaster-2.wav using Guid(4b8131d4b1064ea459d06e4625865e52) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2a270a42c691e65cb82ae75f23444fc6') in 0.086648 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Rock Package/Texture/T_Rock_06_D.TGA
+  artifactKey: Guid(6a873f72a8e88a146a06e4a366806078) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/Rock Package/Texture/T_Rock_06_D.TGA using Guid(6a873f72a8e88a146a06e4a366806078) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f81387c72076ae0daf7011f1d893b565') in 0.023565 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/SkyBox Volume 2/Stars01/backImage.png
+  artifactKey: Guid(0fbf23bda4c210c44a0fe51c9bbaecc7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/SkyBox Volume 2/Stars01/backImage.png using Guid(0fbf23bda4c210c44a0fe51c9bbaecc7) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c02e003829a1afcb2bce6e9ae7c8ccb4') in 0.023834 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/StarWars/Fonts/starjedi/Starjedi SDF.asset
+  artifactKey: Guid(97d9ad699d75c03438c2daf90ba64d36) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/StarWars/Fonts/starjedi/Starjedi SDF.asset using Guid(97d9ad699d75c03438c2daf90ba64d36) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) UnassignedReferenceException: The variable material of TMP_FontAsset has not been assigned.
+You probably need to assign the material variable of the TMP_FontAsset script in the inspector.
+  at UnityEngine.Object+MarshalledUnityObject.ThrowNullExceptionObjectImpl (System.Object obj) [0x000ad] in <0e8168edc7c74c6c8898f77f2be4d6b4>:0 
+  at UnityEngine.Material.HasProperty (System.Int32 nameID) [0x00000] in <0e8168edc7c74c6c8898f77f2be4d6b4>:0 
+  at TMPro.TMP_FontAsset.ReadFontAssetDefinition () [0x0008f] in .\Library\PackageCache\com.unity.textmeshpro@3.0.6\Scripts\Runtime\TMP_FontAsset.cs:588 
+  at TMPro.TMP_FontAsset.OnValidate () [0x00010] in .\Library\PackageCache\com.unity.textmeshpro@3.0.6\Scripts\Runtime\TMP_FontAsset.cs:555 
+UnityEditor.AssetDatabase:LoadMainAssetAtPath(String)
+UnityEditor.Search.AssetIndexer:IndexProperties(Int32&, String&, Boolean&)
+UnityEditor.Search.AssetIndexer:IndexDocument(String, Boolean)
+UnityEditor.Search.SearchIndexEntryImporter:OnImportAsset(AssetImportContext)
+UnityEditor.AssetImporters.ScriptedImporter:GenerateAssetData(AssetImportContext)
+
+(Filename: ./Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_FontAsset.cs Line: 588)
+
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fe43a3b7dc0ed73905f613c9c60a5d69') in 0.016674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/StarWars/Models/Materials/xwing-back1.mat
+  artifactKey: Guid(5c85ce3ae40f47149afd9699c6626e2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23)
+Start importing Assets/StarWars/Models/Materials/xwing-back1.mat using Guid(5c85ce3ae40f47149afd9699c6626e2d) Importer(2089858483,0ecaa5967403d082aa24f35e1b516d23) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '55ca44daa4790b4a16db731d454ad4b3') in 0.018442 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2

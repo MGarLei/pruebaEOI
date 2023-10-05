@@ -1,0 +1,381 @@
+Using pre-set license
+Built from '2023.1/staging' branch; Version is '2023.1.11f1 (fbf46ad88f3d) revision 16512106'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit ProfessionalWorkstation' Language: 'es' Physical Memory: 32691 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity\Editor\2023.1.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/maria/Documents/Proyecto Naves
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+56692
+Successfully changed project path to: C:/Users/maria/Documents/Proyecto Naves
+C:/Users/maria/Documents/Proyecto Naves
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [45180] Host "[IP] 192.168.1.134 [Port] 0 [Flags] 2 [Guid] 1137780441 [EditorId] 1137780441 [Version] 1048832 [Id] WindowsEditor(7,PC-Pinkeiru) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [45180] Host "[IP] 192.168.1.134 [Port] 0 [Flags] 2 [Guid] 1137780441 [EditorId] 1137780441 [Version] 1048832 [Id] WindowsEditor(7,PC-Pinkeiru) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
+Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 9.11 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.1.11f1 (fbf46ad88f3d)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/maria/Documents/Proyecto Naves/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   NVIDIA
+    VRAM:     8031 MB
+    Driver:   31.0.15.3734
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56052
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity/Editor/2023.1.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002827 seconds.
+- Loaded All Assemblies, in  0.350 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.264 seconds
+Domain Reload Profiling: 614ms
+	BeginReloadAssembly (109ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (151ms)
+		LoadAssemblies (109ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (148ms)
+			TypeCache.Refresh (146ms)
+				TypeCache.ScanAssembly (136ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (264ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (219ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (6ms)
+			ProcessInitializeOnLoadAttributes (153ms)
+			ProcessInitializeOnLoadMethodAttributes (49ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\maria\Documents\Proyecto Naves\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\maria\Documents\Proyecto Naves\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.790 seconds
+Refreshing native plugins compatible for Editor in 2.51 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.516 seconds
+Domain Reload Profiling: 1305ms
+	BeginReloadAssembly (260ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (32ms)
+	LoadAllAssembliesAndSetupDomain (453ms)
+		LoadAssemblies (271ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (268ms)
+			TypeCache.Refresh (253ms)
+				TypeCache.ScanAssembly (242ms)
+			ScanForSourceGeneratedMonoScriptInfo (11ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (516ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (339ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (62ms)
+			ProcessInitializeOnLoadAttributes (249ms)
+			ProcessInitializeOnLoadMethodAttributes (18ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 2.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3145 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 34 unused Assets / (52.7 KB). Loaded Objects now: 3694.
+Memory consumption went from 125.8 MB to 125.8 MB.
+Total: 4.431600 ms (FindLiveObjects: 0.372700 ms CreateObjectMapping: 0.095700 ms MarkObjects: 3.818000 ms  DeleteObjects: 0.142400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1271124.840343 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Burst_02.png
+  artifactKey: Guid(eed8651e5f49c491197d365876c43acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Burst_02.png using Guid(eed8651e5f49c491197d365876c43acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61a63664e6a68943252e75e60941accb') in 0.073472 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Flagment_01.png
+  artifactKey: Guid(5b1d79034a3a244aa8f700e507c97dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Flagment_01.png using Guid(5b1d79034a3a244aa8f700e507c97dc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7587c8bbe776e61b782bcbafe2e556e9') in 0.016771 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Ray_03.png
+  artifactKey: Guid(76a7b01e543b54f08a2de9b23f20890b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Ray_03.png using Guid(76a7b01e543b54f08a2de9b23f20890b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76bbfacbb1fcb2a5076a43d77a1a6a1c') in 0.068982 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Fog_01.png
+  artifactKey: Guid(252c3b8c1676a465288ce044a6498dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Fog_01.png using Guid(252c3b8c1676a465288ce044a6498dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '935aeb5366bc5c2365ecaf7ac88eaad3') in 0.014327 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Explode_02.png
+  artifactKey: Guid(efcd07ba692d64054973536ea5cebe80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Explode_02.png using Guid(efcd07ba692d64054973536ea5cebe80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1279ccf7350fd499280065f121dc930') in 0.010872 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Glow_01.png
+  artifactKey: Guid(62a30b1e835bc475d9df0639b61a0456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Glow_01.png using Guid(62a30b1e835bc475d9df0639b61a0456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a7852a65f9536f9d346ed2ac35c02c') in 0.016371 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Fire_02.png
+  artifactKey: Guid(7a44b5a89203e4bd08d42b85e7056665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Fire_02.png using Guid(7a44b5a89203e4bd08d42b85e7056665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '572127b1473c7fa28d184ed6fb2322bc') in 0.013973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Ray_02.png
+  artifactKey: Guid(126c59310296c4ba49f2b35cdf6fb2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Ray_02.png using Guid(126c59310296c4ba49f2b35cdf6fb2ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a53d274c8bcf988266526c8e18eafa09') in 0.021006 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Ring_01.png
+  artifactKey: Guid(2095fef6f431c4dba8e36248d5cb0503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Ring_01.png using Guid(2095fef6f431c4dba8e36248d5cb0503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eee3b2e2eac6e5c4f8e4d85032dfe30') in 0.011855 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.771129 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_SnowFlake_01.png
+  artifactKey: Guid(eac7699a0696a4befb89f612d9ea4d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_SnowFlake_01.png using Guid(eac7699a0696a4befb89f612d9ea4d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85ff72af94edabdfc5072f17d1b4e93a') in 0.013020 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Sparkle_01.png
+  artifactKey: Guid(074087d07d63f452cbba94d1ceb43a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Sparkle_01.png using Guid(074087d07d63f452cbba94d1ceb43a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b499ad5f467d32b0b514ef05cf0d9d6') in 0.010943 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.802625 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Sparkle_03.png
+  artifactKey: Guid(1d67f920dadd2427ca4ce0abb9ef76a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Sparkle_03.png using Guid(1d67f920dadd2427ca4ce0abb9ef76a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '903495f74519bad85538211dbbbf444b') in 0.012406 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.030155 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Thunder_03.png
+  artifactKey: Guid(b89d96dc07d514229a283940ad3b1d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Thunder_03.png using Guid(b89d96dc07d514229a283940ad3b1d4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eba8fae2fc007790b91373f181eb0236') in 0.012279 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Wind_01.png
+  artifactKey: Guid(62a31e22c8d9141ee8b92fe050d674ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Textures/Additive/ETF_Texture_Wind_01.png using Guid(62a31e22c8d9141ee8b92fe050d674ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598a99f58dc506f36cf5f0d7e1deb3b2') in 0.029627 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 39.215442 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_BurningGround.prefab
+  artifactKey: Guid(56c46a16d9e2d494b81ae12edb258a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_BurningGround.prefab using Guid(56c46a16d9e2d494b81ae12edb258a96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b9ff8413e62120d42dce5df87bac4aa') in 0.078183 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 42
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Explosion.prefab
+  artifactKey: Guid(c466276509f8b40a59f02d115254fc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Explosion.prefab using Guid(c466276509f8b40a59f02d115254fc25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '806d96639b79e27506d4c11fbee72d4f') in 0.025158 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 42
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_FireMist.prefab
+  artifactKey: Guid(27d8c546173834381a3b4c0adfd1882f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_FireMist.prefab using Guid(27d8c546173834381a3b4c0adfd1882f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72c1cbb56f8aedb35a9d9dacfb4bbf4') in 0.033011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Fire_02.prefab
+  artifactKey: Guid(7a188c22e10b64955add56de8af5d9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Fire_02.prefab using Guid(7a188c22e10b64955add56de8af5d9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c43e41629845722d8e043bbc9ef69a1') in 0.015682 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Fire_01.prefab
+  artifactKey: Guid(5ca8dc73228934426823c66e4374f591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Fire_01.prefab using Guid(5ca8dc73228934426823c66e4374f591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '995492107dee7754ee4b030342997918') in 0.012521 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Fire_03.prefab
+  artifactKey: Guid(05490f50158ba48a08e9c9e13a996938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_Fire_03.prefab using Guid(05490f50158ba48a08e9c9e13a996938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f560fb1075f09be43f07632af3ecd189') in 0.023224 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 26
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_FireStream.prefab
+  artifactKey: Guid(648c60768d4e14cc6963b8ccfe3bea45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_FireStream.prefab using Guid(648c60768d4e14cc6963b8ccfe3bea45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '530dcf24408de16a02b0f8428e3d20e7') in 0.055600 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 18
+========================================================================
+Received Import Request.
+  Time since last request: 3.010372 seconds.
+  path: Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_MagmaBurst.prefab
+  artifactKey: Guid(0bf1f689188e94176a7e4a03e8df08c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Elemental Free/ElementalParticles/Prefabs/Fire/ETF_MagmaBurst.prefab using Guid(0bf1f689188e94176a7e4a03e8df08c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195233134b08c3de8ab6c91042449211') in 0.011456 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 36
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
